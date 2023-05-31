@@ -1,7 +1,7 @@
 # Music-Bot
 Um Bot de Música para Discord (Python)
 
-> For linux: você precisa de uma pasta '**path**' em **/ com ffmpeg, ffplay & ffprobe**
+> Para Linux: você precisa de uma pasta '**path**' em **/ com ffmpeg, ffplay & ffprobe**
 
 > Para Windows: Você precisa de uma pasta '**path**' em **C:\ com ffmpeg, ffplay & ffprobe**
 _____________________________________________________________________
